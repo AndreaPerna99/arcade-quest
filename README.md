@@ -1,7 +1,7 @@
 # CoinHunter – 3D Coin Collection Game
 
-[![Unity](https://img.shields.io/badge/Engine-Unity-100000?logo=unity)](https://unity.com/) [![Blender](https://img.shields.io/badge/3D-Models%20in-Blender-orange?logo=blender)](https://www.blender.org/)  
-A fully custom-built 3D mini-game where the player collects coins in a modeled environment, developed from scratch using Unity and Blender.
+[![Unity](https://img.shields.io/badge/Engine-Unity-100000?logo=unity)](https://unity.com/) [![C%23](https://img.shields.io/badge/Language-C%23-blue?logo=c-sharp)](https://learn.microsoft.com/en-us/dotnet/csharp/) [![Blender](https://img.shields.io/badge/3D%20Models-Blender-orange?logo=blender)](https://www.blender.org/)  
+A fully custom-built 3D mini-game where the player collects coins in a modeled environment, developed from scratch using Unity, C#, and Blender.
 
 ---
 
