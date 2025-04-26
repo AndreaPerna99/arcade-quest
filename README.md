@@ -129,11 +129,8 @@ To play CoinHunter:
 
 ## 👨‍🎓 Author
 
-- Andrea Perna
-- Mattia Zappalà
-
-📧 and.perna99@gmail.com
-📧 matty.zapp.99.mz@gmail.com
+- Andrea Perna 📧 and.perna99@gmail.com
+- Mattia Zappalà 📧 matty.zapp.99.mz@gmail.com
 
 ---
 
